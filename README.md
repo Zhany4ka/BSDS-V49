@@ -36,11 +36,27 @@ Discord link : https://discord.gg/mt4dUxXryh
 7: Install the client using your favorite app installer and enjoy BSDS.
 
 ### Android client ###
+1: Download the apk here [download link] 
+
+2: Download an apk editor of your choice
+
+3: Decompile the apk with the apk editor and go to lib/armeabi-v7a/libkagenay.c.so and open the file with a text editor.
+
+4: Edit "redirectHost": "192.168.18.102" to your ipv4 address, if your self hosting.
+
+5: How to find ipv4 address?, if your running the server on your phone, you can change that "192.168.18.102" to "127.0.0.1", otherwise if your running the server on pc, open command prompt and type ipconfig and you'll see your ipv4 address down below which will start like "192.168.xx.xx"
+
+6: Compile the apk with the changes and install it, and enjoy playing bsds brawl!
+
+## Optional Steps [ Android ] ##
+1: If you want to change port you could change redirectPort to whatever port you want, keep in mind you have to change port in server too.
+
+2: if you don't want bsds settings you could disable it by setting hideBSDSSettings to true 
 
 ![IMG_0693](https://github.com/risporce/BSDS-V49/assets/72312877/1106bb77-92b1-4b16-83f2-c3bce695e227)
 
 ## credits ##
-[kagenay#9418](https://github.com/kagenay) Android Client
+[kagenay#7241](https://github.com/kagenay) Android Client
 
 [S.B#0056](https://github.com/HaccerCat) for his help with crypto and client
 
