@@ -10,15 +10,7 @@ Discord link : https://discord.gg/mt4dUxXryh
 
 2: Open terminal on your computer and go to BSDS directory.
 
-3: Now you need to install crypto module.
-
-3.1: Type cd Classes/Crypto.
-
-3.2: Now type python setup.py install.
-
-4: Go back to BSDS root directory.
-
-5: Type python Core.py and it's done, follow client instructions.
+3: Type python Core.py and it's done, follow client instructions.
 
 ### iOS client ###
 1: Download the client and extract it. https://www.mediafire.com/file/gam7nfj9j0w0qo4/BSDSV49.ipa/file
