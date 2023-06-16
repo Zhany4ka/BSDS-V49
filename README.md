@@ -48,7 +48,7 @@ Discord link : https://discord.gg/mt4dUxXryh
 ![IMG_0693](https://github.com/risporce/BSDS-V49/assets/72312877/f794149f-a9e2-4ab1-9eed-a03754974dc7)
 
 ## credits ##
-[kagenay#7241](https://github.com/kagenay) Android Client
+[kagenay](https://github.com/kagenay) Android Client
 
 [S.B#0056](https://github.com/HaccerCat) for his help with crypto and client
 
